@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "Party Business";
-	src: url("fonts/partybusiness.tff");
+	src: url("fonts/partybusiness.ttf");
   font-weight: normal;
   font-style: normal;
 }
@@ -13,7 +13,7 @@
 @font-face {
 	font-family: "Tengwar Cursive";
 	src: url("fonts/Tengwarc.woff"),
-    url("fonts/Tengwarc.tff"),
+    url("fonts/Tengwarc.ttf"),
     url("fonts/Tengwarc.svg#TengwarCursive"),
     url("fonts/Tengwarc.eot");
   font-weight: normal;
