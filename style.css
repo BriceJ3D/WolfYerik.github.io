@@ -1,21 +1,21 @@
 @font-face {
 	font-family: "Party Business";
-	src: url("http://bricej3D.fr/wildcodeschool/integration/partybusiness.tff") format ("truetype");
+	src: url("http://bricej3D.fr/wildcodeschool/integration/partybusiness.tff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
 	font-family: "Aniron";
-	src: url("http://bricej3D.fr/wildcodeschool/integration/anirm___.tff") format ("truetype");
+	src: url("http://bricej3D.fr/wildcodeschool/integration/anirm___.tff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
 	font-family: "Tengwar Cursive";
-	src: url("http://bricej3D.fr/wildcodeschool/integration/Tengwarc.woff") format ("woff"),
-    url("http://bricej3D.fr/wildcodeschool/integration/Tengwarc.tff") format ("truetype"),
-    url("http://bricej3D.fr/wildcodeschool/integration/Tengwarc.svg#TengwarCursive") format("svg"),
-    url("http://bricej3D.fr/wildcodeschool/integration/Tengwarc.eot") format("eot");
+	src: url("http://bricej3D.fr/wildcodeschool/integration/Tengwarc.woff"),
+    url("http://bricej3D.fr/wildcodeschool/integration/Tengwarc.tff"),
+    url("http://bricej3D.fr/wildcodeschool/integration/Tengwarc.svg#TengwarCursive"),
+    url("http://bricej3D.fr/wildcodeschool/integration/Tengwarc.eot");
   font-weight: normal;
   font-style: normal;
 }
